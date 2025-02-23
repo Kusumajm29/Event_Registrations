@@ -12,8 +12,6 @@ A Django-based Event Registration System where users can register for events, an
    
 ## Usage:
  - Visit http://127.0.0.1:8000/admin/ to manage events and registrations.
- - Visit http://127.0.0.1:8000/register/ to register for an event.
- - Visit http://127.0.0.1:8000/registrations/ to view the list of registered participants.
    
 ## Methodology:
  - **Model-View-Template (MVT) Architecture**: Django follows MVT, where models define the database structure, views handle the logic, and templates present the UI.
